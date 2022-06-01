@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.landing{
+    background: url('../../img/Banderas1.jpg');
+    background-size: cover;
+    width: 100vw;
+    height:100vh;
+}
+
+/* .author {
+    font-size: 1vw;
+    margin-top: 10vw;
+    margin-left: 64vw; 
+    color: rgb(220, 17, 17);
+    text-align:center
+  } */
+
+/* .container{
+
+    display: grid;
+    width: 500px;
+    height: 300px;
+    z-index: 100;
+    background-color: rgba(94, 67, 228, 0.807);
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    margin-left: 37%;
+    margin-top: 207px;
+    position: absolute;
+} */
+
+/* .author {
+    font-size: 1vw;
+    margin-top: 0vw;
+    margin-left: 64vw; 
+    color: rgb(219, 17, 14);
+  } */
+
+/* .buttonIng.hover{
+    background-color: aquamarine;
+    cursor: pointer;
+    box-shadow: 0px 5px rgba(94, 67, 228, 0.807);
+} */
+
+  .buttonIng {
+    /*    width: -13vw; */
+       height: 5vh;
+       margin-top: 12vh;
+       margin-left: 84vw; 
+       background-color: #dfe60d;
+       color: #0d0d0d;
+       border: none;
+       border-radius: 20px;
+       box-shadow: 0px 0px 40px 0px #efeaea;
+       font-size: 1.5vw;
+       /* -webkit-text-stroke: 0.5px #ababbadd; */
+       font-weight: bold;
+       cursor: pointer;
+     }
+
+     .buttonIng:hover {
+        box-shadow: 0px 0px 40px 0px #dfe60d;
+        background-color: #0d0d0d;
+        color: #dfe60d;
+      }
+     
